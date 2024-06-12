@@ -1,0 +1,1 @@
+## Solutions to 5 Kotlin practice questoins.
