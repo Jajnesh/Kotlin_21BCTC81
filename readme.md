@@ -1,1 +1,1 @@
-## Solutions to 5 Kotlin practice questoins.
+## Solutions to 5 Kotlin practice questions.
