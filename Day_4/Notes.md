@@ -1,4 +1,3 @@
-## Day-4 
+# Day-4 
 
-### Function
-
+## Function :-
