@@ -1,6 +1,7 @@
 # Day-4 
 ## Function :-
-> Block of code to perform a specific task.  
+> Block of code to perform a specific task.
+
 Default return type is Unit.
 
 ### Default Argument :-
