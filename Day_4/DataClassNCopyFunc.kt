@@ -1,5 +1,5 @@
 fun main() {
-    val person1 = Person("Jajnesh",21,"India")
+    val person1 = Person("Space",21,"India")
     val person2 = person1.copy(name = "Space" , age = 25, address = "Indonesia")
 
     println(person1)
